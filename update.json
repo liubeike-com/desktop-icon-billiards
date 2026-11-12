@@ -1,0 +1,11 @@
+{
+  "version": "0.1.5",
+  "download_url": "https://github.com/liubeike-com/desktop-icon-billiards/releases/download/v0.1.5/DesktopIconBilliards-0.1.5-win-x64.exe",
+  "notes": "基于上游 v0.1.5，仅将程序内「打赏」二维码替换为本仓库维护者的收款码，功能与上游一致。",
+  "history": [
+    {
+      "version": "0.1.5",
+      "notes": "上游版本更新；本仓库同步并保留自定义打赏二维码。"
+    }
+  ]
+}
